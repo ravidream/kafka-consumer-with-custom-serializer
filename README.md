@@ -1,2 +1,2 @@
-# kafka-consumer-with-custom-serializer
-kafka-consumer-with-custom-serializer
+# kafka-consumer-ms2
+This is an example of kafka Consumer
